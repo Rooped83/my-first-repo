@@ -1,3 +1,3 @@
-## hello git
-i'm still learning the basics
-this is branch2
+## hi yoo i'm doing well 
+## it's just a matter of time
+
